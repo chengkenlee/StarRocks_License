@@ -1,0 +1,14 @@
+
+
+starrocks:
+  cluster1: [http://ip:port:19321,user,password]
+  cluster2: [http://ip:port:19321,user,password]
+  cluster3: [http://ip:port:19321,user,password]
+  cluster4: [http://ip:port:19321,user,password]
+
+
+log:
+  line: true
+  level: 0
+  path: 'D:\ChengKen\log'
+  console: true
